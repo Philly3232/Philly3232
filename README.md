@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philly3232
+- 👋 Hi, I’m @Philly32
 - 👀 I’m interested in . Learning how to code and make my computer work etter..
 - 🌱 I’m currently learning how to set up kodi and how git hub works...
 - 💞️ I’m looking to collaborate on Learning how all of this works.
